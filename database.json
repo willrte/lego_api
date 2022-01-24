@@ -1,0 +1,431 @@
+{
+    "client": [
+        {
+            "id": "1",
+            "nom": "Xavier",
+            "prenom": "Charles Francis",
+            "telephone": "123456789",
+            "email": "cfxavier@gmail.com",
+            "adresse": "2 Rue de l'H�tel de Ville",
+            "code_postal": "75056",
+            "ville": "Paris"
+        },
+        {
+            "id": "3",
+            "nom": "Drake",
+            "prenom": "Louis",
+            "telephone": "147916991",
+            "email": "luis.drake@gmail.com",
+            "adresse": "12 All�e des Abeilles",
+            "code_postal": "69123",
+            "ville": "Lyon"
+        },
+        {
+            "id": "4",
+            "nom": "Worthington",
+            "prenom": "Warren Kenneth",
+            "telephone": "160147092",
+            "email": "wk.worthington@orange.fr",
+            "adresse": "12 Avenue Louis Vuillemin",
+            "code_postal": "31555",
+            "ville": "Toulouse"
+        },
+        {
+            "id": "5",
+            "nom": "McCoy",
+            "prenom": "Henry",
+            "telephone": "172377193",
+            "email": "henry.mcoy@gmail.com",
+            "adresse": "34 Avenue Oceane",
+            "code_postal": "6088",
+            "ville": "Nice"
+        },
+        {
+            "id": "6",
+            "nom": "Grey",
+            "prenom": "Jean",
+            "telephone": "184607294",
+            "email": "jean.grey@hotmail.com",
+            "adresse": "65 Boulevard Albert Einstein",
+            "code_postal": "44109",
+            "ville": "Nantes"
+        },
+        {
+            "id": "7",
+            "nom": "Rankin",
+            "prenom": "Calvin",
+            "telephone": "196837395",
+            "email": "rc@hotmail.com",
+            "adresse": "14 Place Waldeck Rousseau",
+            "code_postal": "34172",
+            "ville": "Montpellier"
+        },
+        {
+            "id": "8",
+            "nom": "Sidney",
+            "prenom": "Kevin",
+            "telephone": "209067496",
+            "email": "kevin.sidney@outlook.com",
+            "adresse": "67 Boulevard Alexandre Millerand",
+            "code_postal": "67482",
+            "ville": "Strasbourg"
+        },
+        {
+            "id": "9",
+            "nom": "Dane",
+            "prenom": "Lorna",
+            "telephone": "221297597",
+            "email": "lorna.dane@gmail.com",
+            "adresse": "12 Route de Clisson",
+            "code_postal": "33063",
+            "ville": "Bordeaux"
+        },
+        {
+            "id": "10",
+            "nom": "Summers",
+            "prenom": "Alexander",
+            "telephone": "233527698",
+            "email": "alexander.summers@yahoo.com",
+            "adresse": "6 Square des Jardins de Longchamp",
+            "code_postal": "59350",
+            "ville": "Lille"
+        },
+        {
+            "id": "11",
+            "nom": "Wagner",
+            "prenom": "Kurt",
+            "telephone": "245757799",
+            "email": "kurt.wagner@gmil.com",
+            "adresse": "2 Place Vincent Auriol",
+            "code_postal": "35238",
+            "ville": "Rennes"
+        },
+        {
+            "id": "12",
+            "nom": "Howlett",
+            "prenom": "James",
+            "telephone": "257987900",
+            "email": "james.howlett@gmail.com",
+            "adresse": "3 Passage des Oberle",
+            "code_postal": "51454",
+            "ville": "Reims"
+        },
+        {
+            "id": "13",
+            "nom": "Cassidy",
+            "prenom": "Sean",
+            "telephone": "270218001",
+            "email": "sean.cassidy@hotmail.com",
+            "adresse": "34 Rue Alain Barbe Torte",
+            "code_postal": "83137",
+            "ville": "Toulon"
+        },
+        {
+            "id": "14",
+            "nom": "Munroe",
+            "prenom": "Ororo",
+            "telephone": "282448102",
+            "email": "omunroe@gmail.com",
+            "adresse": "123 Avenue des Coquelicots",
+            "code_postal": "42218",
+            "ville": "Saint-Etienne"
+        },
+        {
+            "id": "15",
+            "nom": "Yoshida",
+            "prenom": "Shiro",
+            "telephone": "294678203",
+            "email": "syoshiro@yahoo.com",
+            "adresse": "2 Ruelle des 100 Pas",
+            "code_postal": "76351",
+            "ville": "Le Havre"
+        },
+        {
+            "id": "16",
+            "nom": "Pryde",
+            "prenom": "Katherine",
+            "telephone": "306908304",
+            "email": "kpryde@gmail.com",
+            "adresse": "34 Rue Victor Schoelcher",
+            "code_postal": "38185",
+            "ville": "Grenoble"
+        },
+        {
+            "id": "17",
+            "nom": "Marie",
+            "prenom": "Anna",
+            "telephone": "419138405",
+            "email": "anna.marie@yahoo.com",
+            "adresse": "32 Boulevard Auguste Peneau",
+            "code_postal": "75056",
+            "ville": "Paris"
+        },
+        {
+            "id": "18",
+            "nom": "Summers",
+            "prenom": "Rachel",
+            "telephone": "331368506",
+            "email": "rachel.summers@hotmail.com",
+            "adresse": "4 Rue Vauquelin",
+            "code_postal": "13055",
+            "ville": "Marseille"
+        },
+        {
+            "id": "19",
+            "nom": "Eisenhardt",
+            "prenom": "Max",
+            "telephone": "343598607",
+            "email": "max.eisenhardt@gmail.com",
+            "adresse": "78 Place Alexis Ricordeau",
+            "code_postal": "69123",
+            "ville": "Lyon"
+        },
+        {
+            "id": "20",
+            "nom": "Lehnsherr",
+            "prenom": "Erik",
+            "telephone": "355828708",
+            "email": "erik.lehnsherr@gmail.com",
+            "adresse": "56 Parc de la Beaujoire",
+            "code_postal": "31555",
+            "ville": "Toulouse"
+        },
+        {
+            "id": "21",
+            "nom": "Lebeau",
+            "prenom": "Remy",
+            "telephone": "368058809",
+            "email": "r.lebeau@gmail.com",
+            "adresse": "2 Esplanade de la Navale",
+            "code_postal": "6088",
+            "ville": "Nice"
+        },
+        {
+            "id": "22",
+            "nom": "Bishop",
+            "prenom": "Lucas",
+            "telephone": "580288910",
+            "email": "lucas.bishop@yahoo.com",
+            "adresse": "14 Impasse de l'Abbaye",
+            "code_postal": "35238",
+            "ville": "Rennes"
+        },
+        {
+            "id": "87498848474",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "87498848474",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "87498848474",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "088888",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "088888",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "0888889",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "08888899",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "08888899",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "94794",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "947945",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "9479454",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "9479454",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "9479454",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "9479454",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "075757575",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "075757575",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "075757575777",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "1818",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "80",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "5515",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "2",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "2",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        },
+        {
+            "id": "2",
+            "nom": "Caron",
+            "prenom": "Théo",
+            "poste": "UX/UI Designer",
+            "email": ""
+        }
+    ],
+    "contrat": [
+        {
+            "id": "1",
+            "id_client": "3",
+            "products": [
+                {
+                    "id_product": "1",
+                    "quantity": "1"
+                },
+                {
+                    "id_product": "2",
+                    "quantity": "2"
+                }
+            ],
+            "date_commande": "2018-01-01",
+            "is_payed": "0"
+        }
+    ],
+    "produit": [
+        {
+            "id": "1",
+            "nom": "AT-AT",
+            "collection_id": "1",
+            "prix": "100"
+        },
+        {
+            "id": "2",
+            "nom": "Ferrari 488",
+            "collection_id": "2",
+            "prix": "100"
+        },
+        {
+            "id": "3",
+            "nom": "AT-AT",
+            "collection_id": "",
+            "prix": "100"
+        }
+    ],
+    "collection": [
+        {
+            "id": "1",
+            "nom": "Star Wars"
+        },
+        {
+            "id": "2",
+            "nom": "Technics"
+        },
+        {
+            "id": "3",
+            "nom": "Harry Potter"
+        },
+        {
+            "id": "4",
+            "nom": "City"
+        }
+    ]
+}
