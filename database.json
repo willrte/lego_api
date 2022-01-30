@@ -221,7 +221,7 @@
             "ville": "Rennes"
         }
     ],
-    "contrat": [
+    "contrats": [
         {
             "id": "1",
             "id_client": "3",
@@ -239,7 +239,7 @@
             "is_payed": "0"
         }
     ],
-    "produit": [
+    "produits": [
         {
             "id": "1",
             "nom": "AT-AT",
@@ -259,7 +259,7 @@
             "prix": "100"
         }
     ],
-    "collection": [
+    "collections": [
         {
             "id": "1",
             "nom": "Star Wars"
