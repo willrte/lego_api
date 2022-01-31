@@ -242,73 +242,85 @@
     "produits": [
         {
             "id": "1",
-            "nom": "AT-AT",
+            "showOptions": false,
+            "nom": "1111111111",
             "collection_id": "1",
             "prix": "100"
         },
         {
             "id": "2",
+            "showOptions": false,
             "nom": "Ferrari 488",
             "collection_id": "2",
             "prix": "100"
         },
         {
             "id": "3",
+            "showOptions": false,
             "nom": "ERmioon",
             "collection_id": "3",
             "prix": "100"
         },
         {
             "id": "4",
-            "nom": "AT-AT",
+            "showOptions": false,
+            "nom": "AT-AT-BT",
             "collection_id": "1",
             "prix": "100"
         },
         {
             "id": "5",
+            "showOptions": false,
             "nom": "Ferrari 488",
             "collection_id": "2",
             "prix": "100"
         },
         {
             "id": "6",
-            "nom": "RONNE",
+            "showOptions": false,
+            "nom": "RO",
             "collection_id": "3",
             "prix": "100"
         },
         {
             "id": "7",
+            "showOptions": false,
             "nom": "AT-AT",
             "collection_id": "1",
             "prix": "100"
         },
         {
             "id": "8",
+            "showOptions": false,
             "nom": "Ferrari 488",
             "collection_id": "2",
             "prix": "100"
         },
         {
             "id": "9",
+            "showOptions": false,
             "nom": "Harry",
             "collection_id": "3",
             "prix": "100"
         },
         {
             "id": "10",
+            "showOptions": false,
             "nom": "AT-AT",
             "collection_id": "1",
             "prix": "100"
         },
         {
             "id": "11",
+            "showOptions": false,
             "nom": "Ferrari 488",
             "collection_id": "2",
             "prix": "100"
         },
         {
             "id": "12",
-            "nom": "AAAAAAAAAAAA",
+            "showOptions": false,
+            "nom": "Dernier item",
             "collection_id": "3",
             "prix": "100"
         }
