@@ -243,14 +243,14 @@
         {
             "id": "1",
             "showOptions": false,
-            "nom": "1111111111",
+            "nom": "2222",
             "collection_id": "1",
             "prix": "100"
         },
         {
             "id": "2",
             "showOptions": false,
-            "nom": "Ferrari 488",
+            "nom": "Ferrari 488888",
             "collection_id": "2",
             "prix": "100"
         },
