@@ -1,5 +1,5 @@
 {
-    "client": [
+    "clients": [
         {
             "id": "1",
             "nom": "Xavier",
@@ -8,7 +8,8 @@
             "email": "cfxavier@gmail.com",
             "adresse": "2 Rue de l'H�tel de Ville",
             "code_postal": "75056",
-            "ville": "Paris"
+            "ville": "Paris",
+            "showOptions": false
         },
         {
             "id": "2",
@@ -18,7 +19,8 @@
             "email": "scott.summers@hotmail.com",
             "adresse": "43 All�e de la Tremperie",
             "code_postal": "13055",
-            "ville": "Marseille"
+            "ville": "Marseille",
+            "showOptions": false
         },
         {
             "id": "3",
@@ -28,7 +30,8 @@
             "email": "luis.drake@gmail.com",
             "adresse": "12 All�e des Abeilles",
             "code_postal": "69123",
-            "ville": "Lyon"
+            "ville": "Lyon",
+            "showOptions": false
         },
         {
             "id": "4",
@@ -219,146 +222,6 @@
             "adresse": "14 Impasse de l'Abbaye",
             "code_postal": "35238",
             "ville": "Rennes"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
         }
     ],
     "contrats": [
@@ -383,14 +246,7 @@
         {
             "id": "4",
             "showOptions": false,
-            "nom": "AT-A",
-            "collection_id": "1",
-            "prix": "100"
-        },
-        {
-            "id": "7",
-            "showOptions": false,
-            "nom": "AT-AT",
+            "nom": "AT-A454",
             "collection_id": "1",
             "prix": "100"
         },
@@ -402,87 +258,31 @@
             "prix": "100"
         },
         {
-            "id": "9",
+            "id": "49A)I*g_ykMaçHEE8nQXaw2mN",
             "showOptions": false,
-            "nom": "Harry",
-            "collection_id": "3",
-            "prix": "100"
+            "nom": "Camion",
+            "collection_id": "4",
+            "prix": "200"
         },
         {
-            "id": "10",
+            "id": "QOS9?jéévJy,çgMMEq_Eb?6va",
             "showOptions": false,
-            "nom": "AT-AT",
+            "nom": "Baguette magique du chef cuistot",
+            "collection_id": "3",
+            "prix": "56.2"
+        },
+        {
+            "id": "0*G2éS4t%4!6gvc8TsLKt,=e;",
+            "showOptions": false,
+            "nom": "Faucon millenium",
             "collection_id": "1",
-            "prix": "100"
+            "prix": "250"
         },
         {
-            "id": "11",
+            "id": "100",
             "showOptions": false,
-            "nom": "Ferrari 488",
-            "collection_id": "2",
-            "prix": "100"
-        },
-        {
-            "id": "12",
-            "showOptions": false,
-            "nom": "Dernier item",
+            "nom": "nom item",
             "collection_id": "3",
-            "prix": "100"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
-            "prix": "250"
-        },
-        {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "Test collection",
             "prix": "250"
         }
     ],
