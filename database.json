@@ -5,11 +5,10 @@
             "nom": "Xavier",
             "prenom": "Charles Francis",
             "telephone": "123456789",
-            "email": "cfxavier@gmail.com",
-            "adresse": "2 Rue de l'H�tel de Ville",
+            "email": "xavier",
+            "adresse": "2 Rue de l'Hôtel de Ville",
             "code_postal": "75056",
-            "ville": "Paris",
-            "showOptions": false
+            "ville": "Paris"
         },
         {
             "id": "2",
@@ -17,10 +16,9 @@
             "prenom": "Scott",
             "telephone": "135686890",
             "email": "scott.summers@hotmail.com",
-            "adresse": "43 All�e de la Tremperie",
+            "adresse": "43 Allée de la Tremperie",
             "code_postal": "13055",
-            "ville": "Marseille",
-            "showOptions": false
+            "ville": "Marseille"
         },
         {
             "id": "3",
@@ -30,8 +28,7 @@
             "email": "luis.drake@gmail.com",
             "adresse": "12 All�e des Abeilles",
             "code_postal": "69123",
-            "ville": "Lyon",
-            "showOptions": false
+            "ville": "Lyon"
         },
         {
             "id": "4",
@@ -222,68 +219,97 @@
             "adresse": "14 Impasse de l'Abbaye",
             "code_postal": "35238",
             "ville": "Rennes"
+        },
+        {
+            "id": "Sjby#61.ékkT)b.n.(2çh1oja",
+            "nom": "hideizdeh",
+            "prenom": "dvsdv",
+            "telephone": "121321321",
+            "email": "jofjzeofzfji",
+            "adresse": "zefpozefpozkef",
+            "code_postal": "31315",
+            "ville": "zlekzfek"
         }
     ],
     "contrats": [
         {
-            "id": "1",
+            "id": "IA5ZVXMF",
             "id_client": "3",
-            "products": [
+            "produits_contrat": [
                 {
-                    "id_product": "1",
+                    "id_product": "4",
                     "quantity": "1"
                 },
                 {
-                    "id_product": "2",
+                    "id_product": "8",
                     "quantity": "2"
                 }
             ],
             "date_commande": "2018-01-01",
-            "is_payed": "0"
+            "date_paiement": "2018-01-01",
+            "is_payed": true
+        },
+        {
+            "id": "M4WZOFSG",
+            "id_client": "4",
+            "produits_contrat": [
+                {
+                    "id_product": "4",
+                    "quantity": "1"
+                },
+                {
+                    "id_product": "49A)I*g_ykMaçHEE8nQXaw2mN",
+                    "quantity": "2"
+                } 
+            ],
+            "date_commande": "2018-01-01",
+            "date_paiement": null,
+            "is_payed": true
         }
     ],
     "produits": [
         {
             "id": "4",
-            "showOptions": false,
             "nom": "AT-A454",
             "collection_id": "1",
             "prix": "100"
         },
         {
             "id": "8",
-            "showOptions": false,
             "nom": "Ferrari 488",
             "collection_id": "2",
             "prix": "100"
         },
         {
             "id": "49A)I*g_ykMaçHEE8nQXaw2mN",
-            "showOptions": false,
             "nom": "Camion",
             "collection_id": "4",
             "prix": "200"
         },
         {
             "id": "QOS9?jéévJy,çgMMEq_Eb?6va",
-            "showOptions": false,
-            "nom": "Baguette magique du chef cuistot",
+            "nom": "Baguette magique du chef cuistot ",
             "collection_id": "3",
             "prix": "56.2"
         },
         {
             "id": "0*G2éS4t%4!6gvc8TsLKt,=e;",
-            "showOptions": false,
             "nom": "Faucon millenium",
             "collection_id": "1",
             "prix": "250"
         },
         {
-            "id": "100",
-            "showOptions": false,
-            "nom": "nom item",
-            "collection_id": "3",
-            "prix": "250"
+            "id": "à.,tK:i0q7èEx!lF6,i2K$2hç",
+            "nom": "cdsdc",
+            "collection_id": "2",
+            "prix": "3212"
+        },
+        {
+            "id": "à9_j,1Lq:x4WRYgNAR%$$H)j§",
+            "nom": "test sans show options 4",
+            "collection_id": "2",
+            "prix": "2321",
+            "showOptions": false
         }
     ],
     "collections": [
