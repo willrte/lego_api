@@ -260,7 +260,7 @@
                 {
                     "id_product": "49A)I*g_ykMaçHEE8nQXaw2mN",
                     "quantity": "2"
-                } 
+                }
             ],
             "date_commande": "2018-01-01",
             "date_paiement": null,
@@ -308,8 +308,7 @@
             "id": "à9_j,1Lq:x4WRYgNAR%$$H)j§",
             "nom": "test sans show options 4",
             "collection_id": "2",
-            "prix": "2321",
-            "showOptions": false
+            "prix": "2321"
         }
     ],
     "collections": [
