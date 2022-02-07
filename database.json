@@ -247,7 +247,8 @@
             ],
             "date_commande": "2018-01-01",
             "date_paiement": "2018-01-01",
-            "is_payed": true
+            "is_payed": true,
+            "showProduitsContrat": false
         },
         {
             "id": "M4WZOFSG",
@@ -265,6 +266,22 @@
             "date_commande": "2018-01-01",
             "date_paiement": null,
             "is_payed": true
+        },
+        {
+            "id": "SV2WLM6M",
+            "id_client": "3",
+            "produits_contrat": [],
+            "date_commande": "2022-02-17",
+            "date_paiement": "2022-03-04",
+            "is_payed": false
+        },
+        {
+            "id": "L980N32O",
+            "id_client": "11",
+            "produits_contrat": [],
+            "date_commande": "2022-02-07",
+            "date_paiement": "2022-02-07",
+            "is_payed": false
         }
     ],
     "produits": [
