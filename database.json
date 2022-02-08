@@ -8,7 +8,8 @@
             "email": "xavier",
             "adresse": "2 Rue de l'Hôtel de Ville",
             "code_postal": "75056",
-            "ville": "Paris"
+            "ville": "Paris",
+            "showOptions": false
         },
         {
             "id": "2",
@@ -268,16 +269,8 @@
             "is_payed": true
         },
         {
-            "id": "SV2WLM6M",
-            "id_client": "3",
-            "produits_contrat": [],
-            "date_commande": "2022-02-17",
-            "date_paiement": "2022-03-04",
-            "is_payed": false
-        },
-        {
-            "id": "L980N32O",
-            "id_client": "11",
+            "id": "9TPUUHFI",
+            "id_client": "15",
             "produits_contrat": [],
             "date_commande": "2022-02-07",
             "date_paiement": "2022-02-07",
@@ -289,13 +282,15 @@
             "id": "4",
             "nom": "AT-A454",
             "collection_id": "1",
-            "prix": "100"
+            "prix": "100",
+            "showOptions": false
         },
         {
             "id": "8",
             "nom": "Ferrari 488",
             "collection_id": "2",
-            "prix": "100"
+            "prix": "100",
+            "showOptions": false
         },
         {
             "id": "49A)I*g_ykMaçHEE8nQXaw2mN",
@@ -314,18 +309,6 @@
             "nom": "Faucon millenium",
             "collection_id": "1",
             "prix": "250"
-        },
-        {
-            "id": "à.,tK:i0q7èEx!lF6,i2K$2hç",
-            "nom": "cdsdc",
-            "collection_id": "2",
-            "prix": "3212"
-        },
-        {
-            "id": "à9_j,1Lq:x4WRYgNAR%$$H)j§",
-            "nom": "test sans show options 4",
-            "collection_id": "2",
-            "prix": "2321"
         }
     ],
     "collections": [
@@ -344,6 +327,16 @@
         {
             "id": "4",
             "nom": "City"
+        }
+    ],
+    "user": [
+        {
+            "name": "William",
+            "lastname": "Ratelade",
+            "username": "wratelade",
+            "password": "psswrd",
+            "poste": "Ux/Ui Designer",
+            "profil_pic_link": "https://i.gifer.com/3Iga.gif"
         }
     ]
 }
