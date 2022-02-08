@@ -19,7 +19,8 @@
             "email": "scott.summers@hotmail.com",
             "adresse": "43 Allée de la Tremperie",
             "code_postal": "13055",
-            "ville": "Marseille"
+            "ville": "Marseille",
+            "showOptions": false
         },
         {
             "id": "3",
@@ -27,9 +28,10 @@
             "prenom": "Louis",
             "telephone": "147916991",
             "email": "luis.drake@gmail.com",
-            "adresse": "12 All�e des Abeilles",
+            "adresse": "12 Allée des Abeilles",
             "code_postal": "69123",
-            "ville": "Lyon"
+            "ville": "Lyon",
+            "showOptions": false
         },
         {
             "id": "4",
@@ -266,7 +268,8 @@
             ],
             "date_commande": "2018-01-01",
             "date_paiement": null,
-            "is_payed": true
+            "is_payed": true,
+            "showProduitsContrat": false
         },
         {
             "id": "9TPUUHFI",
@@ -275,6 +278,15 @@
             "date_commande": "2022-02-07",
             "date_paiement": "2022-02-07",
             "is_payed": false
+        },
+        {
+            "id": "9HKR9NJT",
+            "id_client": "9",
+            "produits_contrat": [],
+            "date_commande": "2022-02-08",
+            "date_paiement": "2022-02-08",
+            "is_payed": false,
+            "showProduitsContrat": false
         }
     ],
     "produits": [
