@@ -267,7 +267,7 @@
                 }
             ],
             "date_commande": "2018-01-01",
-            "date_paiement": null,
+            "date_paiement": "2022-02-07",
             "is_payed": true,
             "showProduitsContrat": false
         },
@@ -277,7 +277,7 @@
             "produits_contrat": [],
             "date_commande": "2022-02-07",
             "date_paiement": "2022-02-07",
-            "is_payed": false
+            "showProduitsContrat": false
         },
         {
             "id": "9HKR9NJT",
@@ -285,8 +285,23 @@
             "produits_contrat": [],
             "date_commande": "2022-02-08",
             "date_paiement": "2022-02-08",
-            "is_payed": false,
             "showProduitsContrat": false
+        },
+        {
+            "id": "OKXRT22E",
+            "id_client": "2",
+            "produits_contrat": [],
+            "date_commande": "2022-02-08",
+            "date_paiement": null,
+            "is_payed": false
+        },
+        {
+            "id": "ST9VESEL",
+            "id_client": "2",
+            "produits_contrat": [],
+            "date_commande": "2022-02-08",
+            "date_paiement": "2022-02-18",
+            "is_payed": false
         }
     ],
     "produits": [
