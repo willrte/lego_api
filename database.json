@@ -5,7 +5,7 @@
             "nom": "Xavier",
             "prenom": "Charles Francis",
             "telephone": "123456789",
-            "email": "xavier",
+            "email": "cfxavier@gmail.com",
             "adresse": "2 Rue de l'Hôtel de Ville",
             "code_postal": "75056",
             "ville": "Paris",
@@ -17,7 +17,7 @@
             "prenom": "Scott",
             "telephone": "135686890",
             "email": "scott.summers@hotmail.com",
-            "adresse": "43 Allée de la Tremperie",
+            "adresse": "43 All�e de la Tremperie",
             "code_postal": "13055",
             "ville": "Marseille",
             "showOptions": false
@@ -28,10 +28,9 @@
             "prenom": "Louis",
             "telephone": "147916991",
             "email": "luis.drake@gmail.com",
-            "adresse": "12 Allée des Abeilles",
+            "adresse": "12 All�e des Abeilles",
             "code_postal": "69123",
-            "ville": "Lyon",
-            "showOptions": false
+            "ville": "Lyon"
         },
         {
             "id": "4",
@@ -222,17 +221,6 @@
             "adresse": "14 Impasse de l'Abbaye",
             "code_postal": "35238",
             "ville": "Rennes"
-        },
-        {
-            "id": "Sjby#61.ékkT)b.n.(2çh1oja",
-            "nom": "h",
-            "prenom": "dvsdv",
-            "telephone": "121321321",
-            "email": "jofjzeofzfji",
-            "adresse": "zefpozefpozkef",
-            "code_postal": "31315",
-            "ville": "zlekzfek",
-            "showOptions": false
         }
     ],
     "contrats": [
@@ -363,6 +351,6 @@
         "username": "Eva",
         "password": "psswrd",
         "poste": "Evangelion",
-        "profil_pic_link": "https://i.imgur.com/pgV9eeT.gif"
+        "profil_pic_link": "https://c.tenor.com/xwjN54qq-PAAAAAC/onepiece.gif"
     }
 }
