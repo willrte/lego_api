@@ -225,13 +225,14 @@
         },
         {
             "id": "Sjby#61.ékkT)b.n.(2çh1oja",
-            "nom": "hideizdeh",
+            "nom": "h",
             "prenom": "dvsdv",
             "telephone": "121321321",
             "email": "jofjzeofzfji",
             "adresse": "zefpozefpozkef",
             "code_postal": "31315",
-            "ville": "zlekzfek"
+            "ville": "zlekzfek",
+            "showOptions": false
         }
     ],
     "contrats": [
@@ -329,7 +330,7 @@
             "id": "QOS9?jéévJy,çgMMEq_Eb?6va",
             "nom": "Baguette magique du chef cuistot ",
             "collection_id": "3",
-            "prix": "56.2"
+            "prix": "57"
         },
         {
             "id": "0*G2éS4t%4!6gvc8TsLKt,=e;",
@@ -356,14 +357,12 @@
             "nom": "City"
         }
     ],
-    "user": [
-        {
-            "name": "William",
-            "lastname": "Ratelade",
-            "username": "wratelade",
-            "password": "psswrd",
-            "poste": "Ux/Ui Designer",
-            "profil_pic_link": "https://i.gifer.com/3Iga.gif"
-        }
-    ]
+    "user": {
+        "name": "William",
+        "lastname": "Ratelade",
+        "username": "wratelade",
+        "password": "psswrd",
+        "poste": "Ux/Ui Designer",
+        "profil_pic_link": "https://i.gifer.com/3Iga.gif"
+    }
 }
