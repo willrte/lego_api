@@ -7,6 +7,8 @@ const fs = require("fs");
 let corsOptions = {
     origin: [
         "http://localhost:8080",
+        "http://lego.willr.fr/",
+        "https://wizardly-hamilton-84a436.netlify.app/",
     ],
 };
 
