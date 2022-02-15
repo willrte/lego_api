@@ -7,8 +7,7 @@ const fs = require("fs");
 let corsOptions = {
     origin: [
         "http://localhost:8080",
-        "http://lego.willr.fr/",
-        "https://wizardly-hamilton-84a436.netlify.app/",
+        "http://localhost:8083",
     ],
 };
 
@@ -17,7 +16,7 @@ app.use(bodyParser.urlencoded({
     extended: true
 }));
 app.use(bodyParser.json());
-const PORT = process.env.PORT || 8082;
+const PORT = process.env.PORT || 8085;
 app.post("/api/update-db", (req, res) => {
     console.log(req.body);
     fs.writeFileSync("./database.json", JSON.stringify(req.body,null,4));

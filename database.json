@@ -281,8 +281,9 @@
             "id_client": "2",
             "produits_contrat": [],
             "date_commande": "2022-02-08",
-            "date_paiement": null,
-            "is_payed": false
+            "date_paiement": "2022-02-15",
+            "is_payed": false,
+            "showProduitsContrat": true
         },
         {
             "id": "ST9VESEL",
