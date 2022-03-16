@@ -283,7 +283,7 @@
             "date_commande": "2022-02-08",
             "date_paiement": "2022-02-15",
             "is_payed": false,
-            "showProduitsContrat": true
+            "showProduitsContrat": false
         },
         {
             "id": "ST9VESEL",
